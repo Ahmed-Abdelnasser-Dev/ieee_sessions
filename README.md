@@ -1,3 +1,3 @@
-# ieee_session_1
+# ieee_sessions
 
 A new Flutter project.
